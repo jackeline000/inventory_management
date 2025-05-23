@@ -1,0 +1,15 @@
+/Users/jackie/Documents/cse310/inventory_management/bin/Debug/net9.0/inventory_management
+/Users/jackie/Documents/cse310/inventory_management/bin/Debug/net9.0/inventory_management.deps.json
+/Users/jackie/Documents/cse310/inventory_management/bin/Debug/net9.0/inventory_management.runtimeconfig.json
+/Users/jackie/Documents/cse310/inventory_management/bin/Debug/net9.0/inventory_management.dll
+/Users/jackie/Documents/cse310/inventory_management/bin/Debug/net9.0/inventory_management.pdb
+/Users/jackie/Documents/cse310/inventory_management/obj/Debug/net9.0/inventory_management.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jackie/Documents/cse310/inventory_management/obj/Debug/net9.0/inventory_management.AssemblyInfoInputs.cache
+/Users/jackie/Documents/cse310/inventory_management/obj/Debug/net9.0/inventory_management.AssemblyInfo.cs
+/Users/jackie/Documents/cse310/inventory_management/obj/Debug/net9.0/inventory_management.csproj.CoreCompileInputs.cache
+/Users/jackie/Documents/cse310/inventory_management/obj/Debug/net9.0/inventory_management.sourcelink.json
+/Users/jackie/Documents/cse310/inventory_management/obj/Debug/net9.0/inventory_management.dll
+/Users/jackie/Documents/cse310/inventory_management/obj/Debug/net9.0/refint/inventory_management.dll
+/Users/jackie/Documents/cse310/inventory_management/obj/Debug/net9.0/inventory_management.pdb
+/Users/jackie/Documents/cse310/inventory_management/obj/Debug/net9.0/inventory_management.genruntimeconfig.cache
+/Users/jackie/Documents/cse310/inventory_management/obj/Debug/net9.0/ref/inventory_management.dll
